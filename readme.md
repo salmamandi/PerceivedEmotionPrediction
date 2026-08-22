@@ -32,9 +32,13 @@ Movie_bin2_valence_info.csv ⇒ Each movie clip has its ground truth valence and
 Subtitle_video_bin_pred2.csv ⇒ video tool predicted valence and arousal.
 
 Audio_bin_pred2.csv ⇒ audio tool predicted valence and arousal.
+
+
 <-------------------------------Details of deep learning based model---------------------------->
-Salma_perceive_emo_pred_model: this folder contain all code files 
+Deep_learning_based_model: This folder contain all code files 
+
 train2.py: It is used to train the model
+
 predict_only.py: It is used to predict the model
 
 
